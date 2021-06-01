@@ -11,7 +11,7 @@ es posible que el código funcione para ESP32, ESP8266 y Raspberry Pi Pico solo 
 Se utilizó un ESP32 con la pantalla oled integrada este se puede conseguir en https://n9.cl/94yld, sujiero ver documentación del hardware utilizado
 
 ## Ejemplo de uso
-Se puede apreciar un ejemplo de uso en el archivo test_analog_plot.py
+Se puede apreciar un ejemplo de uso en el archivo test_analog_plot.py, para utilizar este codigo simplemente se requieren guardar los archivos en la memnoria del microcontrolador se sujiere ver: https://www.profetolocka.com.ar/2020/10/03/programando-el-esp8266-en-micro-python/
 
 
 ## Video de muestra
